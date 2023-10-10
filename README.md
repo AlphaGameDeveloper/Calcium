@@ -1,2 +1,3 @@
-# Calcium
-Work-in-progress decomp of Dani's KARLSON.  Get it?  Milk = CALCIUM!
+<h1 align="center">CALCIUM</h1>
+<p align="center">Work-in-progress decompilation of Dani's KARLSON</p>
+<p>Thanks to uTinyRipper</p>
